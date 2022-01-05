@@ -1,0 +1,12 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "extends": ["airbnb"],
+  "plugins": ["react"],
+  "rules": {
+    "no-unused-vars": "warn"
+  }
+}
